@@ -27,5 +27,5 @@ cp .xinitrc /home/$USER/.xinitrc
 cp .config/* /home/$USER/.config/ -r
 chmod +x ~/.config/polybar/polybar.sh
 ```
-by @0xtzcg
+by @0xtz
 
