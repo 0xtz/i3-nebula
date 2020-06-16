@@ -1,7 +1,7 @@
 # screenshots
 
-![screenshot](screenshot0.jpg)
-![screenshot](screenshot1.jpg)
+![screenshot](screenshot0.png)
+![screenshot](screenshot1.png)
 
 # How to Aply theme ?
 
