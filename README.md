@@ -1,3 +1,8 @@
+# screenshots
+
+![screenshot](screenshot0.jpg)
+![screenshot](screenshot1.jpg)
+
 # How to Aply theme ?
 
 > make sure to install this packages
