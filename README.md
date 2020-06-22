@@ -16,6 +16,7 @@
 git clonne https://github.com/Ziani52/i3-nebula.git
 cd i3-nebula
 ```
+! The Colors depends your wallpaper colors OK :wink:
 ```
 $USER is your username folder in /home 
 ```
@@ -27,10 +28,9 @@ wal -i /path/to/wall.png # eny error istall pywal Ok
 & 
 ```bash
 chsh -s /usr/bin/zsh $USER # make sure that zsh is installed
-cp .zshrc /home/$USER/.zshrc
-cp .xinitrc /home/$USER/.xinitrc
-cp .config/* /home/$USER/.config/ -r
+cp .zshrc ~/.zshrc 
+cp .xinitrc ~/.xinitrc 
+cp .config/* ~/.config/ -r 
 chmod +x ~/.config/polybar/polybar.sh
 ```
-by @0xtz
-
+by [@0xtz](https://twitter.com/0xtz_52)
